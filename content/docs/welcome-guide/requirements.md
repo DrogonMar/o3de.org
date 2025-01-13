@@ -212,6 +212,7 @@ O3DE also requires some additional library packages to be installed:
 * libxcb-xinput-dev
 * libxcb-xfixes0-dev
 * libxcb-xkb-dev
+* libxcb-randr0-dev
 * libxkbcommon-dev
 * libxkbcommon-x11-dev
 * libfontconfig1-dev
